@@ -43,7 +43,7 @@ Expectations include reliable power-up, efficient voltage regulation, accurate c
 ## Significant Parts Used:
 Significant parts used in the project include ATMEGA328, LDO (AMS1117), CH340g, Crystal Oscillators, DAC MCP4725, ADC ADS111x, and OP-AMP MCP6002.
 
-## Napkin Sketch, Working Schematic, Layout, and Assembled Board:
+##  Design:
 Various visuals and diagrams are provided to illustrate the project's design, layout, and assembly process.
 ![Schematic](https://github.com/Shri2401/Golden-Arduino/blob/main/ECEN5730_Instrument_Droid_Shrinithi_DesignFiles/Project%20Outputs%20for%20Instrument%20droid/Golden_Arduino_Schematic.jpg)
 ![Bare Board](https://github.com/Shri2401/Golden-Arduino/blob/main/ECEN5730_Instrument_Droid_Shrinithi_DesignFiles/Project%20Outputs%20for%20Instrument%20droid/Screenshot%202024-03-13%20161227.png)
