@@ -45,8 +45,9 @@ Significant parts used in the project include ATMEGA328, LDO (AMS1117), CH340g, 
 
 ##  Design:
 Various visuals and diagrams are provided to illustrate the project's design, layout, and assembly process.
-![Schematic](https://github.com/Shri2401/Golden-Arduino/blob/main/ECEN5730_Instrument_Droid_Shrinithi_DesignFiles/Project%20Outputs%20for%20Instrument%20droid/Golden_Arduino_Schematic.jpg)
-![Bare Board](https://github.com/Shri2401/Golden-Arduino/blob/main/ECEN5730_Instrument_Droid_Shrinithi_DesignFiles/Project%20Outputs%20for%20Instrument%20droid/Screenshot%202024-03-13%20161227.png)
+![Schematic](https://github.com/Shri2401/Golden-Arduino/blob/main/pictures/Screenshot%202024-03-13%20161227.png)
+![Bare Board](https://github.com/Shri2401/Golden-Arduino/blob/main/pictures/Golden_Arduino_Schematic.jpg)
+![PCB](https://github.com/Shri2401/Golden-Arduino/blob/main/pictures/Golden_Arduino.jpg)
 
 ## Bring-Up Process Summary:
 The bring-up process involved short testing of the bare board, precise component placement, soldering, testing, bootloading, and code execution.
